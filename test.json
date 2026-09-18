@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Amul Taaza Toned Milk",
+      "quantity": "500 ml",
+      "price": "₹28",
+      "imageURL": "amul-taaza-toned-milk",
+      "systemImageName": "drop.fill",
+      "deeplink": "1"
+    },
+    {
+      "id": "2",
+      "name": "Amul Gold Full Cream Milk",
+      "quantity": "500 ml",
+      "price": "₹35",
+      "imageURL": "amul-gold-full-cream-milk",
+      "systemImageName": "drop.fill",
+      "deeplink": "2"
+    },
+    {
+      "id": "3",
+      "name": "Britannia Brown Bread",
+      "quantity": "400 g",
+      "price": "₹45",
+      "imageURL": "britannia-brown-bread",
+      "systemImageName": "basket.fill",
+      "deeplink": "3"
+    },
+    {
+      "id": "4",
+      "name": "Farm Fresh Eggs",
+      "quantity": "6 pieces",
+      "price": "₹72",
+      "imageURL": "farm-fresh-eggs",
+      "systemImageName": "oval.fill",
+      "deeplink": "4"
+    },
+    {
+      "id": "5",
+      "name": "Tata Salt",
+      "quantity": "1 kg",
+      "price": "₹28",
+      "imageURL": "tata-salt",
+      "systemImageName": "cube.fill",
+      "deeplink": "5"
+    },
+    {
+      "id": "6",
+      "name": "Coca-Cola",
+      "quantity": "750 ml",
+      "price": "₹40",
+      "imageURL": "coca-cola",
+      "systemImageName": "cup.and.saucer.fill",
+      "deeplink": "6"
+    }
+  ]
+}
